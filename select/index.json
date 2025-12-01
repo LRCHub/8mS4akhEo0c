@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "シングルベッド",
+  "base_artist": "Sharam Q",
+  "createdAt": "2025-12-01T15:18:28.440402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シングルベッド",
+      "artist": "シャ乱Q",
+      "has_synced": true,
+      "path": "select/01_シングルベッド_シャ乱Q.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シングルベッド",
+      "artist": "シャ乱Q",
+      "has_synced": true,
+      "path": "select/02_シングルベッド_シャ乱Q.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シングルベッド",
+      "artist": "シャ乱Q",
+      "has_synced": false,
+      "path": "select/03_シングルベッド_シャ乱Q.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シングルベッド",
+      "artist": "Sharam Q",
+      "has_synced": true,
+      "path": "select/04_シングルベッド_Sharam_Q.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャ乱Q「シングルベッド」(MV)",
+      "artist": "Sharam Q",
+      "has_synced": true,
+      "path": "select/05_シャ乱Q「シングルベッド」(MV)_Sharam_Q.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シングルベッド",
+      "artist": "シャ乱Q",
+      "has_synced": true,
+      "path": "select/06_シングルベッド_シャ乱Q.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シングルベッド",
+      "artist": "シャ乱Q",
+      "has_synced": false,
+      "path": "select/pl_01_シングルベッド_シャ乱Q.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シングルベッドはせまいのです",
+      "artist": "シャ乱Q",
+      "has_synced": false,
+      "path": "select/pl_02_シングルベッドはせまいのです_シャ乱Q.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シングルベッド",
+      "artist": "シャ乱Q",
+      "has_synced": false,
+      "path": "select/pl_03_シングルベッド_シャ乱Q.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "シングルベッド",
+      "artist": "シャ乱Q",
+      "has_synced": false,
+      "path": "select/pl_04_シングルベッド_シャ乱Q.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "「シングルベッド」",
+      "artist": "シャ乱Q",
+      "has_synced": false,
+      "path": "select/pl_05_「シングルベッド」_シャ乱Q.txt"
+    }
+  ]
+}
